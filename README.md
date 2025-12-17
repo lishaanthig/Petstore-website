@@ -62,7 +62,7 @@ This project was created to practice **frontend web development**, focusing on r
  👩‍💻 Author
 
 **Lishaanthi G**
-**Computer Science Engineering Student**
+***Computer Science Engineering Student**
 
 
 
