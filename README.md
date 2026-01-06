@@ -30,26 +30,14 @@ Pet-World/
 │── index.html
 │── styles.css
 │── main.js
-│── assets/
-│   ├── images
-│   └── icons
+│── images
+│── icons
 └── README.md
 
 
 🚀 Live Demo
 
 🔗 Live Demo:https://lishaanthig.github.io/Petstore-website/
-
-
- 🚀 How to Run the Project
-
-1. Clone the repository:
-
-   
-   git clone https://github.com/your-username/Pet-World.git
-   
-2. Open the project folder
-3. Open `index.html` in your browser
 
 
 
