@@ -41,9 +41,11 @@ Pet-World/
 
 
 
+
 🎯 Project Purpose
 
 This project was created to practice **frontend web development**, focusing on responsive design, animations, and real‑world website layout. It is suitable for **college submissions, internships, and portfolio use**.
+
 
 
 
@@ -51,6 +53,7 @@ This project was created to practice **frontend web development**, focusing on r
 
 **Lishaanthi G**
 ***Computer Science Engineering Student**
+
 
 
 
